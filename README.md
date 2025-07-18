@@ -53,10 +53,6 @@ ContactManager/
 
 ▶️ How to Run
 
-Clone the repository or download the files:
-
-git clone https://github.com/yourusername/contact-manager-java.git
-
 Open in your preferred IDE (e.g., IntelliJ, Eclipse, VS Code with Java Extension).
 
 Set up the database in MySQL as shown above.
